@@ -23,8 +23,10 @@ export default class MyProfile {
     return
     [
       "Ruby",
+      "Python",
       "C#",
-      "GO"
+      "C++"
+      "GO",
     ]
   }
 
