@@ -20,11 +20,11 @@ export default class MyProfile {
    * @returns {Array<string>}
    */
   get skillset() {
-    return 
+    return
     [
       "Ruby",
       "C#",
-      "GO" 
+      "GO"
     ]
   }
 
@@ -40,7 +40,7 @@ export default class MyProfile {
    * @returns {string}
    */
   getMoreInfo() {
-    return "coming soon;
+    return "https://oyiekeallen.com";
   }
 }
 
